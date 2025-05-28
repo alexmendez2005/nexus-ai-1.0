@@ -775,3 +775,11 @@
     </script>
 </body>
 </html>
+<div class="input-container">
+       <div class="input-box">
+           <textarea class="message-input" placeholder="Escribe un mensaje..." rows="1"></textarea>
+           <button class="send-btn">
+               <i class="fas fa-paper-plane"></i>
+           </button>
+       </div>
+   </div>
